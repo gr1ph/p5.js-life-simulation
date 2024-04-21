@@ -6,7 +6,7 @@ Food which is green is hard to see but they are still there.
 
 Version Stability:
 V.1 - Stable |
-V.2 - Stable |
+V.2 - Stable | 
 V.3 - Stable |
 V.4 - Stable |
 V.5 - Stable |
