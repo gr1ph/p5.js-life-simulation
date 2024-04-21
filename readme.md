@@ -14,4 +14,4 @@ V.6 - Unstable |
 V.7 - Unstable |
 V.8 - Stable |
 V.9 - Stable |
-v.10 Fatally Unstable |
+v.10 Fataly Unstable |
