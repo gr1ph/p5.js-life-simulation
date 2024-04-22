@@ -10,7 +10,7 @@ V.2 - Stable |
 V.3 - Stable |
 V.4 - Stable |
 V.5 - Stable |
-V.6 - Unstable |
+V.6 - Experimental |
 V.7 - Unstable |
 V.8 - Stable |
 V.9 - Stable |
